@@ -69,8 +69,8 @@ ul {
 /* End Components */
 /* Start Category */
 .category {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
 .category .container .category-list li {
   display: flex;
