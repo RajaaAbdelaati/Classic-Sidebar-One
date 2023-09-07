@@ -7,3 +7,6 @@ Classic Sidebar Challenge Using HTML And CSS
 
 ### Demo 
 https://rajaaabdelaati.github.io/Team-Skills-And-Stats/
+
+### Design Website Link 
+https://elzero.org/frontend-classic-sidebar/
